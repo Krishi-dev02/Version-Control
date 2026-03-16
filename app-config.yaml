@@ -1,5 +1,12 @@
-README.md
-app-config.yaml
-.env.example
-deploy.sh
-.gitignore
+application:
+  name: sample-devops-app
+  version: 1.0
+
+server:
+  port: 8080
+  host: localhost
+  
+database:
+  type: mysql
+  host: localhost
+  port: 3306
