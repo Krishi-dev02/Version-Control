@@ -1,4 +1,3 @@
-DevOps Git Practice Project
 This repository contains sample artifacts for learning Git version control anc
 Artifacts included:
 1. Application configuration
@@ -6,5 +5,3 @@ Artifacts included:
 3. Deployment script
 4. Documentation
 5. Ignore rules
-6. 
-Author: Krishi 
